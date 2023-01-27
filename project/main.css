@@ -34,7 +34,7 @@ p {
   background-color: rgb(249, 197, 197);
   width: 100%;
   border-bottom: 1px solid black;
-
+  z-index: 1;
 }
 
 
